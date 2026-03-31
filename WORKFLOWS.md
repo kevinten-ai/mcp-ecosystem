@@ -28,7 +28,7 @@
 **场景**：从文字创意到发布一条短视频（抖音/小红书/B站）
 
 <p align="center">
-  <img src="docs/content-factory.png" alt="Content Factory" width="500">
+  <img src="docs/wf-1-short-video.png" alt="Short Video Pipeline" width="500">
 </p>
 
 **涉及 MCP**：`mcp-image-gen` → `mcp-media-toolkit` → `mcp-video-gen` → `mcp-ffmpeg` → `mcp-subtitle` → `mcp-content-styles` → `mcp-social-publisher`
@@ -103,6 +103,10 @@ steps:
 
 ## 2. 多语言配音翻译
 
+<p align="center">
+  <img src="docs/wf-2-multilang.png" alt="Multilingual Dubbing" width="500">
+</p>
+
 **场景**：将中文视频翻译为英文/日文版本，保留原说话人声线
 
 **涉及 MCP**：`mcp-subtitle` → `mcp-voice-clone` → `mcp-ffmpeg`
@@ -157,6 +161,10 @@ steps:
 ---
 
 ## 3. AI 讲师课程制作
+
+<p align="center">
+  <img src="docs/wf-3-ai-teacher.png" alt="AI Teacher" width="500">
+</p>
 
 **场景**：从讲稿生成完整的教学视频（AI 数字人 + PPT + 字幕）
 
@@ -213,6 +221,10 @@ steps:
 ---
 
 ## 4. 社交媒体内容矩阵
+
+<p align="center">
+  <img src="docs/wf-4-content-matrix.png" alt="Content Matrix" width="500">
+</p>
 
 **场景**：一个核心创意，适配 4 个平台同时发布
 
@@ -273,6 +285,10 @@ steps:
 
 ## 5. 产品 3D 展示视频
 
+<p align="center">
+  <img src="docs/wf-5-3d-showcase.png" alt="3D Product Showcase" width="500">
+</p>
+
 **场景**：从产品描述生成 3D 模型 + 360度旋转展示视频
 
 **涉及 MCP**：`mcp-image-gen` → `mcp-3d-gen` → `mcp-video-gen` → `mcp-ffmpeg`
@@ -321,6 +337,10 @@ steps:
 
 ## 6. 播客/有声书制作
 
+<p align="center">
+  <img src="docs/wf-6-podcast.png" alt="Podcast Production" width="500">
+</p>
+
 **场景**：将文字内容转换为专业品质的音频节目
 
 **涉及 MCP**：`mcp-voice-clone` → `mcp-video-gen` → `mcp-ffmpeg`
@@ -367,6 +387,10 @@ steps:
 ---
 
 ## 7. 品牌视觉套件生成
+
+<p align="center">
+  <img src="docs/wf-7-brand-kit.png" alt="Brand Visual Kit" width="500">
+</p>
 
 **场景**：为新品牌快速生成一套视觉素材（Logo 概念、封面、名片、PPT 模板）
 
@@ -417,6 +441,10 @@ steps:
 ---
 
 ## 8. 电商产品图批量制作
+
+<p align="center">
+  <img src="docs/wf-8-ecommerce.png" alt="E-commerce Product Images" width="500">
+</p>
 
 **场景**：为产品生成多角度、多场景的电商展示图
 
