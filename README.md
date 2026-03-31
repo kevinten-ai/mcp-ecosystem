@@ -1,6 +1,10 @@
 # KT AI MCP Ecosystem
 
 <p align="center">
+  <img src="docs/ecosystem-ring.png" alt="MCP Ecosystem" width="600">
+</p>
+
+<p align="center">
   <a href="https://github.com/kevinten-ai"><img src="https://img.shields.io/badge/org-kevinten--ai-blue.svg" alt="Organization"></a>
   <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/protocol-MCP-green.svg" alt="MCP"></a>
   <img src="https://img.shields.io/badge/servers-11-orange.svg" alt="11 MCP Servers">
@@ -52,6 +56,10 @@
 ---
 
 ## Pipeline
+
+<p align="center">
+  <img src="docs/content-factory.png" alt="AI Content Factory" width="600">
+</p>
 
 ### 端到端内容生产流水线
 
