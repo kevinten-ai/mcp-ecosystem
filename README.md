@@ -161,7 +161,7 @@ Step 5: mcp-social-publisher → publish (批量发布)
 
 | Provider | MCP | 模型 | 成本 | 质量 |
 |---|---|---|---|---|
-| CogVideoX (智谱) | mcp-video-gen | cogvideox-flash | **免费** | Good |
+| Volcengine Ark Seedance | mcp-video-gen | doubao-seedance-2-0-fast-260128 | 按量付费 | High |
 | DashScope/Wan (阿里) | mcp-video-gen | wan2.6-t2v | 50秒免费 | High |
 | Kling AI (可灵) | mcp-video-gen | kling-v2-master | 66积分/天 | High |
 | MiniMax (海螺) | mcp-video-gen | Hailuo 2.3 | ~¥0.7/条 | Highest |
